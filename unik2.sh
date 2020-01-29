@@ -5,11 +5,12 @@ clear
 ulang="y"
 while [ $ulang = "y" ];
 do
-echo "untuk username dan password sc 68 adalah username : solo password : Player    SCRIPT ini akan di update kembali lagi untuk dikasih git terbaru"
+echo "JANGAN LUPA SUBSCRIBE CHANNEL KU 5W WE*
+echo "SCRIPT ini akan di update kembali lagi untuk dikasih git terbaru"
 figlet "5W WE" | lolcat
 echo "______________________by 5W" | lolcat
   echo "\33[31;1m(_= 1 -+] install red hawk"
-  echo "\33[1;33m[+- 2 =_# install sc 68"
+  echo "\33[1;33m[+- 2 =_# install sc 77"
   echo "\33[32;1m(_= 5 -+] exit"
   echo "(+)꧁F4K9࿇script࿈꧂(+)" | lolcat
 read -p "masukan kontol : " pilih
@@ -25,7 +26,7 @@ then
         sleep 2
 elif [ $pilih = "2" ];
 then
-        echo "\33[0;32minstalling sc 68"
+        echo "\33[0;32minstalling sc 77"
         cd $HOME
         pkg update && pkg upgrade
         pkg install python
