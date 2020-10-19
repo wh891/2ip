@@ -6,7 +6,7 @@ ulang="y"
 while [ $ulang = "y" ];
 do
 echo "JANGAN LUPA SUBSCRIBE CHANNEL KU 5W WE*
-echo "SCRIPT ini akan di update kembali lagi untuk dikasih git terbaru"
+echo "SCRIPT ini akan di update kembali lagi untuk dikasih lebih canggih"
 figlet "5W WE" | lolcat
 echo "______________________by 5W" | lolcat
   echo "\33[31;1m(_= 1 -+] install red hawk"
